@@ -118,8 +118,6 @@ while True:
             
                 if box["x"]==dest["x"] and box["y"]==dest["y"]:
 
-                    print_map(size_x,size_y,pusher_x,pusher_y,dests)
-
                     print("Mission Complete!!!")
 
                 break
